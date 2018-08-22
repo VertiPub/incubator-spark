@@ -1,3 +1,5 @@
+# This repository has been archived.
+
 # Apache Spark
 
 Lightning-Fast Cluster Computing - <http://spark.incubator.apache.org/>
